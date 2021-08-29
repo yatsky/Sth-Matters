@@ -1,0 +1,22 @@
+name: Convert md files to org
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: >-
+            FILES=*.md
+            for f in $FILES
+            do
+              # extension="${f##*.}"
+               filename="${f%.*}"
+               echo "Converting $f to $filename.org"
+               `pandoc $f -t org -o $filename.org`
+               # uncomment this line to delete the source file.
+               # rm $f
+             done
+
