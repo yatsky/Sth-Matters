@@ -1,0 +1,17 @@
+* 民科
+  :PROPERTIES:
+  :CUSTOM_ID: 民科
+  :END:
+
+/今年诺贝尔物理奖得主彭罗斯算不算民科?/
+
+#+BEGIN_QUOTE
+  Author: #JohnHexa Last update: /23/07/2021/ Links: Tags:
+  #科学与技术ScienceAndTech/医学Medical-Science
+#+END_QUOTE
+
+读一下这个。
+
+[[https://link.zhihu.com/?target=https%3A//www.sciencedirect.com/science/article/abs/pii/S0003491615003243][Quantum
+cognition: The possibility of processing with nuclear spins in the
+brain]]
