@@ -2,6 +2,9 @@
   :PROPERTIES:
   :CUSTOM_ID: 可控核聚变
   :END:
+:LOGBOOK:
+CLOCK: [2021-09-01 Wed 20:03]--[2021-09-01 Wed 20:16] =>  0:13
+:END:
 
 /可控核聚变是否真的有传说中那么美好?/
 

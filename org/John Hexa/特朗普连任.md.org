@@ -1,7 +1,10 @@
 * 特朗普连任
-  :PROPERTIES:
-  :CUSTOM_ID: 特朗普连任
-  :END:
+:PROPERTIES:
+:CUSTOM_ID: 特朗普连任
+:END:
+:LOGBOOK:
+CLOCK: [2021-09-01 Wed 19:47]--[2021-09-01 Wed 19:52] =>  0:05
+:END:
 
 /2020年，特朗普会连任吗?/
 
