@@ -1,14 +1,15 @@
+:PROPERTIES:
+:ID:       0DFC092F-98E8-4A7D-B854-26EC3D7475B4
+:END:
+#+title: 3D打印
+#+LAST_MODIFIED: 01/09/2021 19:18:03
+#+filetags: :科学与技术ScienceAndTech:
 * 3D打印
   :PROPERTIES:
   :CUSTOM_ID: d打印
   :END:
 
 /一两年前大火的 3D 打印建筑现在为何没动静了？是骗局吗?/
-
-#+BEGIN_QUOTE
-  Author: #JohnHexa Last update: /23/06/2021/ Links: [[3D打印 - 坏了]]
-  Tags: #科学与技术ScienceAndTech
-#+END_QUOTE
 
 3D打印在建筑上的应用不应该是打印混凝土，而应该是“钢丝/缆骨架纺织焊接”------即以多股直径三毫米左右的高强高韧钢丝为基本单位，依靠“打印头”的拧绞、穿插、切断、接续和点焊能力，去构造钢缆级的有机结构作为后续水泥浇筑或膜结构、轻质复合材料、管线设施组装的框架基础。
 

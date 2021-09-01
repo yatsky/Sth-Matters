@@ -1,14 +1,16 @@
+:PROPERTIES:
+:ID:       1558F243-761E-4047-9F54-DCFE6D1F5507
+:END:
+#+title: 3D打印 - 坏了
+#+author: JohnHexa Last update: /23/06/2021/ Links: [[3D打印 - 骗局]]
+#+filetags: :科学与技术ScienceAndTech:
+#+LAST_MODIFIED: 01/09/2021 19:12:29
 * 3D打印 - 坏了
   :PROPERTIES:
   :CUSTOM_ID: d打印---坏了
   :END:
 
 /为什么我的3D打印机喷头出不来料，而且把料手动退出来时是这样的（见图）？？?/
-
-#+BEGIN_QUOTE
-  Author: #JohnHexa Last update: /23/06/2021/ Links: [[3D打印 - 骗局]]
-  Tags: #科学与技术ScienceAndTech
-#+END_QUOTE
 
 喷头的加热部件坏了，也可能是温度探头坏了。
 
